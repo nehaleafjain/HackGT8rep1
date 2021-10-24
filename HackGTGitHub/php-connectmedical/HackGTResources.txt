@@ -1,0 +1,15 @@
+Resources We Used:
+
+Jonah Lawernce: https://www.youtube.com/watch?v=MYh6df4ZybU
+
+https://www.w3schools.com/
+
+TutorialRepublic: https://www.tutorialrepublic.com/php-tutorial/php-mysql-login-system.php
+
+https://www.php.net/manual/en/function.error-reporting.php
+
+https://devcenter.heroku.com/articles/php-logging
+
+https://www.youtube.com/results?search_query=SQL+Server+27+-+How+to+Create+FOREIGN+KEY+Constraints
+
+Schneems: https://github.com/heroku/php-getting-started/tree/main/web
